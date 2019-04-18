@@ -1,0 +1,26 @@
+{
+    "simple": {
+        "_": [
+            "index.html",
+            "script.js",
+            "style.css"
+        ]
+    },
+    "bootstrap": {
+        "_": [
+            "index.html"
+        ],
+        "style": [
+            "style.css",
+            "style2.css"
+        ],
+        "scripts": [
+            "script.js",
+            "script2.js"
+        ],
+        "libs": [
+            "jquery",
+            "bootstrap"
+        ]
+    }
+}
